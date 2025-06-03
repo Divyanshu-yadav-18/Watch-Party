@@ -1,6 +1,6 @@
 # 🎬 Watch-Party
 
-**Watch-Party** is a real-time movie streaming platform built with **Next.js**, where users can join party rooms to watch movies together. The admin can upload a movie, and everyone in the room enjoys it in perfect sync.
+**Watch-Party** is a real-time movie streaming platform built with **Next.js**, where users can join party rooms to watch movies together. The admin can upload a movie or paste a torrent magnet link, and everyone in the room enjoys it in perfect sync.
 
 ---
 
